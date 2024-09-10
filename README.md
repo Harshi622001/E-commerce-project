@@ -1,2 +1,2 @@
 # E-commerce-project
-Backend-Java,Springboot
+A microservices-based e-commerce application built with Java,Springboot and React, featuring four services: Order (PostgreSQL), Shipping (PostgreSQL), User, and Product (MongoDB). Utilizes Kafka for asynchronous messaging between Order and Shipping services and scheduled tasks for status updates. The React frontend provides a user-friendly interface for seamless interaction with the backend.
